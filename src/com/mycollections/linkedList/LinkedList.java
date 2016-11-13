@@ -10,6 +10,7 @@ public class LinkedList {
 		return(head==null);
 	}
 
+	// Append 
 	public void append(int data)  {
 		
 		Node n = new Node(data);
